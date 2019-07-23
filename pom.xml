@@ -13,8 +13,8 @@
   </modules>
   <distributionManagement>
 	    <repository>
-	      <id>firstNexusRepo</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
+	      <id>nexus-3.15.2-01</id>
+	      <name>firstNexusRepo</name>
 	      <url>http://ec2-13-232-117-223.ap-south-1.compute.amazonaws.com:8081/repository/firstNexusRepo//</url>
 	    </repository>
 	</distributionManagement>
